@@ -1,0 +1,3 @@
+Wow, the fact that can't skip to a node using Fungus feels like a major issue. The solution is to just put a call in teh top of the first block to go where I want.
+
+Interesting: if you move the characters to not be top-level in the heirarchy, Fungus will break. Or at least I thought so but I was totally wrong. Yay!
